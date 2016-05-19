@@ -14,3 +14,7 @@ Personalized lint tools and styles
 
   * Change indent of access keywords to be the same as parent.
 
+  * Change done processing message to stdout.
+
+  * Only output error count when non-zero.
+
