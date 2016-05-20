@@ -18,3 +18,5 @@ Personalized lint tools and styles
 
   * Only output error count when non-zero.
 
+  * Enable `build/include_alpha`.
+
