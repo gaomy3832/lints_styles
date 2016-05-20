@@ -20,3 +20,5 @@ Personalized lint tools and styles
 
   * Enable `build/include_alpha`.
 
+  * Approve several C++11 headers.
+
