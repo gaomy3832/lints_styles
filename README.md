@@ -5,7 +5,7 @@ Personalized lint tools and styles
 
 * cpplint
 
-  Google cpplint tool. Based on <https://github.com/google/styleguide>, cpplint/cpplint.py.
+  [Google cpplint tool](https://github.com/google/styleguide), cpplint/cpplint.py.
 
 * pylintrc
 
