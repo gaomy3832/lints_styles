@@ -7,6 +7,9 @@ Personalized lint tools and styles
 
   Google cpplint tool. Based on <https://github.com/google/styleguide>, cpplint/cpplint.py.
 
+* pylintrc
+
+  Configuration for [pylint](<https://www.pylint.org/).
 
 ## Changes
 
@@ -21,4 +24,10 @@ Personalized lint tools and styles
   * Enable `build/include_alpha`.
 
   * Approve several C++11 headers.
+
+* pylintrc
+
+  * Allow short local variable names.
+
+  * Loose max design size.
 
