@@ -10,6 +10,7 @@
 #
 
 [MESSAGES CONTROL]
+disable=bad-builtin
 
 [BASIC]
 # Allow single-char and two-char variable names
