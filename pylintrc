@@ -10,7 +10,11 @@
 #
 
 [MESSAGES CONTROL]
-disable=bad-builtin, superfluous-parens
+disable=
+    I0011,  # locally-disabled,
+    C0325,  # superfluous-parens,
+    W0105,  # pointless-string-statement,
+    W0141,  # bad-builtin,
 
 [BASIC]
 # Allow single-char and two-char variable names
