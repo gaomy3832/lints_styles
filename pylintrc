@@ -12,6 +12,7 @@
 [MESSAGES CONTROL]
 disable=
     I0011,  # locally-disabled,
+    C0305,  # trailing-newlines,
     C0325,  # superfluous-parens,
     W0105,  # pointless-string-statement,
     W0141,  # bad-builtin,
