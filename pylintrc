@@ -9,6 +9,9 @@
 # > pylint --generate-rcfile
 #
 
+[MASTER]
+extension-pkg-whitelist=numpy
+
 [MESSAGES CONTROL]
 disable=
     I0011,  # locally-disabled,
