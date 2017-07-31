@@ -26,6 +26,7 @@ variable-rgx=[a-z_][a-z0-9_]*$
 
 [DESIGN]
 max-args=25
+max-attributes=15
 max-branches=25
 max-locals=50
 max-module-lines=2000
