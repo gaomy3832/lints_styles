@@ -31,3 +31,7 @@ max-branches=25
 max-locals=50
 max-module-lines=2000
 max-statements=200
+
+[SIMILARITIES]
+ignore-imports=yes
+
