@@ -31,3 +31,5 @@ Personalized lint tools and styles
 
   * Loose max design size.
 
+  * Whitelist numpy.
+

@@ -35,3 +35,7 @@ max-statements=200
 [SIMILARITIES]
 ignore-imports=yes
 
+[TYPECHECK]
+ignored-modules=numpy
+ignored-classes=numpy
+
